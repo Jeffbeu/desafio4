@@ -1,11 +1,11 @@
 <h1 align="center">Desafio 4👋</h1>
 <p>
   <a href="#" target="_blank">
-    <img alt="License: ISC" src="desafio-completo.png" />
+    <img alt="License: ISC" src="image/desafio-completo.png" />
   </a>
 </p>
 
-> Desafio 4 da codelandia finalizado decidir fazer algumas coisas além do que estava no layout decidir criar um navbar bem simples para não fica com aquela sensação de tem algo faltando estilizei as cards grids para não ficar tão simples só com cores aleatória 
+> Desafio 4 da codelandia do Iuri Silva finalizado e naturalmente fiz algumas modificações no layout e acrescentei mais telas elas foram a do cadastro e recuperar senha 
 
 
 ## Run tests
