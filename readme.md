@@ -1,7 +1,7 @@
 <h1 align="center">Desafio 4👋</h1>
 <p>
   <a href="#" target="_blank">
-    <img alt="License: ISC" src="image/desafio-completo.png" />
+    <img alt="License: ISC" src="image/deafio-completo.png" />
   </a>
 </p>
 
